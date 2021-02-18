@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Humza - Git practice
+### An interesting article
+Check out [this article](https://stackoverflow.blog/2020/01/29/the-live-coding-language-that-lets-you-be-an-actual-rock-star/) -- it's about Sonic Pi, a programming language that creates live sound/music from code. As both a musician and a programmer, I think that's pretty cool. I've always wanted to get into algorithmic music composition, and I've even tried making a random music generator.
